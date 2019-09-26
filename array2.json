@@ -1,0 +1,7 @@
+{
+  "name": "Nick Wasicsko",
+  "age":"16",
+  "isProgrammer": true,
+  "gender": "male",
+  "languages": ["HTML5", "Javascript", "Assembly", "css", "JSON", "basic", "CS64", "Batch", "Scratch", "Binary", "JQuery"]
+}

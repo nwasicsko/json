@@ -1,0 +1,16 @@
+{
+"People": [
+{
+  "name": "Nick Wasicsko",
+  "age":"16",
+  "isProgrammer": true,
+  "gender": "male"
+},
+{
+  "name": "Micah Court",
+  "age": "mid 20s",
+  "isProgrammer": true,
+  "gender": "male"
+}
+]
+}
